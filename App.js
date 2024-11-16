@@ -9,13 +9,7 @@ import { getDatabase, ref, push, onValue } from 'firebase/database';
 
 // Configurações do Firebase
 const firebaseConfig = {
-  apiKey: "AIzaSyDfpaloc62STJ85ivN0_RcuJoXcBeAxfss",
-  authDomain: "expower-dc899.firebaseapp.com",
-  projectId: "expower-dc899",
-  storageBucket: "expower-dc899.appspot.com",
-  messagingSenderId: "735486606182",
-  appId: "1:735486606182:web:3e0fafc7b68324a59366a7",
-  databaseURL: "https://expower-dc899-default-rtdb.firebaseio.com/",
+
 };
 
 // Inicializa o Firebase
